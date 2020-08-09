@@ -13,6 +13,6 @@ Currently the team is using the following structures to classify this data:
 
 ## To Do
 + [ ] Create and complete lab website to display projects.
-+ [ ] 
++ [ ] Classify Random Forest Decision Tree
 + [ ] 
 + [ ] 
